@@ -1,6 +1,28 @@
 # Terraform AWS EFS Module
 
-## Table of Contents
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-Module-6610f2?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/yrahul05/terraform-aws-efs?style=for-the-badge"/>
+</p>
+
+
+> A clean and opinionated Terraform module by **[Rahul Yadav](https://github.com/yrahul05)**  
+> To use this module, include it in your Terraform configuration file and provide the required input variables. Below is an example of how to use the module:
+---
+
+👤 ABOUT ME
+
+Rahul Yadav  
+Certified Cloud & DevOps Engineer  
+
+## 🔗 Links
+
+### Personal Profiles
+> **GitHub:** [https://github.com/yrahul05](https://github.com/yrahul05)  
+> **LinkedIn:** [https://www.linkedin.com/in/rahulyadavdevops/](https://www.linkedin.com/in/rahulyadavdevops/)  
+> **Upwork:** [https://www.upwork.com/freelancers/~0183ad8a41e8284283](https://www.upwork.com/freelancers/~0183ad8a41e8284283)
+
 
 ## Examples
 Example
@@ -109,8 +131,6 @@ availability_zone_name = ["us-west-1a", "us-west-1"]
 | <a name="output_tags"></a> [tags](#output\_tags) | The tags of the ecs cluster |
 
 ## 💙 Maintained by Rahul Yadav
-
-CEO & CTO at **[PrimeOps Technologies](https://primeops.co.in/)**
 Helping teams build stable, scalable and consistent cloud infrastructure.
 
 <!-- END_TF_DOCS -->
